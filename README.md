@@ -46,7 +46,9 @@ A **mobile-first, offline-capable disaster safety platform** that provides:
 - 🚨 Real-time alerts (even with limited connectivity)  
 - 🌐 Multilingual support for ASEAN communities  
 - 📱 Emergency guides and key hotlines  
-- ♿ Accessibility for elderly and vulnerable populations  
+- ♿ Accessibility for elderly and vulnerable populations
+
+![Dashboard](MYANMAR_TEAM-NEBULA-BEANS/Slide11.PNG)
 
 ---
 
