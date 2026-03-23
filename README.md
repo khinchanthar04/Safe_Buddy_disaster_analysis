@@ -24,7 +24,7 @@ SafeBuddy is a data-driven disaster preparedness platform designed to support vu
 - ESCAP & UNDP reports  
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](MYANMAR_TEAM-NEBULA-BEANS/Slide2.PNG)
 
 ---
 
