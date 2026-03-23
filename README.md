@@ -25,6 +25,10 @@ SafeBuddy is a data-driven disaster preparedness platform designed to support vu
 
 ## 📊 Dashboard Preview
 ![Dashboard](MYANMAR_TEAM-NEBULA-BEANS/Slide2.PNG)
+![Dashboard](MYANMAR_TEAM-NEBULA-BEANS/Slide3.PNG)
+![Dashboard](MYANMAR_TEAM-NEBULA-BEANS/Slide4.PNG)
+![Dashboard](MYANMAR_TEAM-NEBULA-BEANS/Slide5.PNG)
+
 
 ---
 
